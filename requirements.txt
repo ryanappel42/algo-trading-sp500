@@ -1,0 +1,17 @@
+setuptools
+yfinance
+pandas
+numpy
+ta
+xgboost
+scikit-learn
+joblib
+streamlit
+python-dotenv
+requests
+aiohttp
+deprecation
+msgpack==1.0.3
+PyYAML
+websocket-client
+alpaca-trade-api==3.2.0
